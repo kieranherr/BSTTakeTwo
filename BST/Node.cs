@@ -8,5 +8,13 @@ namespace BST
 {
     class Node
     {
+        public int Data;
+        public Node leftNode;
+        public Node rightNode;
+
+        public Node(int data)
+        {
+            Data = data;
+        }
     }
 }

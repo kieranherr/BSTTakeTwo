@@ -8,5 +8,13 @@ namespace BST
 {
     class BinarySearchTree
     {
+        public static void Add()
+        {
+
+        }
+        public static void Search()
+        {
+
+        }
     }
 }
